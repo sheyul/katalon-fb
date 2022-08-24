@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kata sandi yang Anda masukkan salah. Lupa Kata Sandi</name>
+   <tag></tag>
+   <elementGuidId>4d4c1e99-1ca8-438e-b6a5-f567cb608b90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='loginform']/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div._9ay7</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c892100c-bdee-4edb-ae07-a84d54af8030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_9ay7</value>
+      <webElementGuid>0eca6107-a4e2-4659-aa2f-92a9406895e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kata sandi yang Anda masukkan salah. Lupa Kata Sandi?</value>
+      <webElementGuid>2b857ab6-2a1b-45c9-a462-5762848c2c2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loginform&quot;)/div[@class=&quot;clearfix _5466 _44mg&quot;]/div[@class=&quot;_9ay7&quot;]</value>
+      <webElementGuid>400cf088-2de4-4917-b177-4fcb4810e3b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='loginform']/div[2]/div[2]</value>
+      <webElementGuid>ec11d626-48e3-4f81-925e-253cadd21336</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bukan Anda?'])[1]/following::div[10]</value>
+      <webElementGuid>31441cfe-bd61-4fe4-8db1-d0804bf537a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/preceding::div[1]</value>
+      <webElementGuid>d73fda9f-5513-4daa-8d87-cb5850d1e822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kata sandi yang Anda masukkan salah.']/parent::*</value>
+      <webElementGuid>d25eadf2-9eda-4787-84cb-cc566eb4d40c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/div[2]</value>
+      <webElementGuid>94ca25b7-519f-4dbd-b889-451a73f62e31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kata sandi yang Anda masukkan salah. Lupa Kata Sandi?' or . = 'Kata sandi yang Anda masukkan salah. Lupa Kata Sandi?')]</value>
+      <webElementGuid>ebe5e19a-08f1-4850-837e-8719c576cbee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
